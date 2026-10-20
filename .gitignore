@@ -1,6 +1,3 @@
-# Временное исключение из синхронизации
-*.drawio
-
 # VS Code workspace
 *.code-workspace
 
